@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppIntro Slider</string>
+    <string name="app_intro_skip">Skip</string>
+
+    <string name="home1">"The interface of the program to enter for each student is a single school fees and absence and the schedule of separation and a map to access the school "</string>
+    <string name="intro1">"First interface "</string>
+
+    <string name="home2">"School fees are shown to the parent only from the first and second tram fees and the participation in the bus "</string>
+    <string name="intro2">School expenses</string>
+
+    <string name="home3">"The interface of the program to enter for each student concerns one of the school fees and the absence of the separation table and map to access the school "</string>
+
+    <string name="home4">"The weekly schedule for each student can be enlarged to show more "</string>
+    <string name="intro4">"Daily school schedule "</string>
+
+    <string name="home5">"The level of the student for each item details in the month of the student's examination and the student's degree "</string>
+    <string name="intro5">"Student's level "</string>
+    <string name="intro3">arrive at school</string>
+</resources>
